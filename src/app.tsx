@@ -16,7 +16,7 @@ export function App() {
       <div className="max-w-3xl w-full px-6 text-center space-y-10 ">
         <div className='flex flex-col items-center gap-3'>
           <img src="/public/logo.svg" alt="plann.er" />
-          <p className="text-zinc-300 text-lg">Convide seus amigos e planeje sua proxima viagem</p>
+          <p className="text-zinc-300 text-lg">Convide seus amiges e planeje sua proxima viagem</p>
         </div>
         <div className='space-y-4'>      
           <div  className="h-16 bg-zinc-900 px-4 rounded-xl flex items-center shadow-shape gap-3">
